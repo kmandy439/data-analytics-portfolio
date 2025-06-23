@@ -1,20 +1,32 @@
- ## 📸 Lab Screenshots
+# Data Analytics Portfolio (BUSI 653)
 
-### IAM Lab
-![IAM Lab](images/iam_lab_result.png)
+## 📸 Lab Screenshots
 
-### VPC Lab
-![VPC Lab](images/vpc_lab_result.png)
+### IAM Lab  
+![IAM Lab](images/images/iam_lab_result.png)
 
-### Lambda Lab
-![Lambda Lab](images/lambda_lab_result.png)
+### VPC Lab  
+![VPC Lab](images/images/vpc_lab_result.png)
 
-### EBS Lab
-![EBS Lab](images/ebs_lab_result.png)
+### Route Table  
+![Route Table](images/images/route_table_assoc.png)
 
-## 📊 Architecture Diagram
+### Subnets  
+![Subnets](images/images/subnets_list.png)
 
-![AWS Diagram](images/A_diagram_depicts_an_AWS_architecture_within_a_Vir.png)
+### Create VPC  
+![Create VPC](images/images/Create VPC.png)
+
+### Web Server Launch  
+![Web Server Browser](images/images/webserver_browser.png)
+
+## 🧠 Case Study  
+![Case Study](images/images/case_study_1.png)
+
+## 🗺️ Architecture Diagram  
+![Architecture Diagram](images/images/case_study_1.png)
+
+---
 
 ##Learning Outcomes
 The skills that I got by doing this AWS portfolio are:
