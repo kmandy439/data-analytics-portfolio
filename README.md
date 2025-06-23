@@ -24,7 +24,7 @@
 ![Case Study](images/images/case_study_1.png)
 
 ## 🗺️ Architecture Diagram  
-![Architecture Diagram](images/images/case_study_1.png)
+![Architecture Diagram](images/images/AWS_Architecture_Diagram.png)
 
 ---
 
