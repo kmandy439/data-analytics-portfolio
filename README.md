@@ -1,29 +1,40 @@
 # Data Analytics Portfolio (BUSI 653)
 ## IAM Lab Screenshots
+## Lab Screenshots
 
-### IAM Dashboard & Sign-In
-- ![IAM Dashboard](images/iamdashboard.png)
-- ![Sign in as user-1](images/sign_in_as_user1.png)
+### 🛡 IAM Lab Screenshot
 
-### user-1 (S3 Support)
+#### ✅ IAM Dashboard & Sign-In
+- ![IAM Dashboard](images/iam_dashboard.png)
+- ![Sign in as user-1](images/sign_in_user1.png)
+
+#### 👤 user-1 (S3 Support)
 - ![user-1 IAM](images/user1.png)
 - ![user-1 EC2 Access Denied](images/ec2.png)
 
-### user-2 (EC2 Support)
+#### 👤 user-2 (EC2 Support)
 - ![user-2 IAM](images/user2.png)
 - ![user-2 EC2 Access](images/user2_ec2.png)
 
-### user-3 (EC2 Admin)
+#### 👤 user-3 (EC2 Admin)
 - ![user-3 IAM](images/user3.png)
 - ![user-3 stopping instance](images/user3_stopping_instance.png)
 
 ---
 
-## VPC Lab
+### 🌐 VPC Lab
 - ![Create VPC](images/create_vpc.png)
 - ![Route Table](images/route_table_assoc.png)
 - ![Subnets](images/subnets_list.png)
 - ![Architecture](images/aws_architecture_diagram.png)
+
+---
+
+### 📊 IAM Lab Result
+- ![IAM Lab Result](images/iam_lab_result.png)
+
+### 📊 VPC Lab Result
+- ![VPC Lab Result](images/vpc_lab_result.png)
 
 ## IAM Lab Result
 - ![IAM Lab Result](images/iam_lab_result.png)
