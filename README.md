@@ -2,23 +2,16 @@
 
 ## 📸 Lab Screenshots
 ### 🧪 IAM Lab Screenshots
+![IAM Dashboard](images/iam_lab_screenshots/IAMdashboard.png)
+![Sign in as user-1](images/iam_lab_screenshots/Sign in as user-1.png)
 
-#### ✅ IAM Dashboard & Sign-In
-- ![IAM Dashboard](images/iam_lab_screenshots/IAmDashboard.png)
-- ![Sign in as user-1](images/iam_lab_screenshots/Sign in as user-1.png)
+![user-1 IAM](images/iam_lab_screenshots/user1.png)
+![user-1 EC2 Access Denied](images/iam_lab_screenshots/EC2.png)
+![user-2 IAM](images/iam_lab_screenshots/user2.png)
+![user-2 EC2 Access](images/iam_lab_screenshots/User2_EC2.png)
+![user-3 IAM](images/iam_lab_screenshots/user3.png)
+![user-3 stopping instance](images/iam_lab_screenshots/user3-stopping instance.png)
 
-#### 👤 user-1 (S3 Support)
-- ![user-1 IAM](images/iam_lab_screenshots/user1.png)
-- ![user-1 EC2 Access Denied](images/iam_lab_screenshots/EC2.png)
-
-#### 👤 user-2 (EC2 Support)
-- ![user-2 IAM](images/iam_lab_screenshots/user2.png)
-- ![user-2 EC2 Access](images/iam_lab_screenshots/User2_EC2.png)
-
-#### 👤 user-3 (EC2 Admin)
-- ![user-3 IAM](images/iam_lab_screenshots/user3.png)
-- ![user-3 stopping instance](images/iam_lab_screenshots/user3-stopping instance.png)
-- 
 ### IAM Lab  
 ![IAM Lab](images/images/iam_lab_result.png)
 
